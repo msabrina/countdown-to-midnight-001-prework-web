@@ -7,7 +7,7 @@ def countdown(number)
     end 
     "HAPPY NEW YEAR!"
 end
-
+countdown(10)
 def countdown_with_sleep (num_secs)
   number = 10
   
@@ -17,3 +17,4 @@ def countdown_with_sleep (num_secs)
     sleep 1
   end
 end
+countdown(4)
